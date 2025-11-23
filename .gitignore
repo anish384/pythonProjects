@@ -1,0 +1,15 @@
+# Python compilation
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# System
+.DS_Store
