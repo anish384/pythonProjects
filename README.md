@@ -25,3 +25,11 @@ python3 main.py
 ## 🛠️ Tech Stack
 - Python 3.x
 - Libraries: requests, json, argparse
+
+# Project Ideas Links
+
+## 🏆 Roadmap.sh Projects
+This repository contains solutions for the following roadmap.sh challenges:
+- [Expense Tracker](https://roadmap.sh/projects/expense-tracker)
+- [GitHub User Activity](https://roadmap.sh/projects/github-user-activity)
+
