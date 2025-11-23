@@ -27,6 +27,7 @@ Use the `add` command with a description (`-d`) and amount (`-a`).
 python expense_tracker.py add --description "Lunch with friends" --amount 250
 # OR
 python expense_tracker.py add -d "Coffee" -a 50
+```
 
 ### 2. List All Expenses
 
